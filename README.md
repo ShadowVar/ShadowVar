@@ -7,7 +7,7 @@ I'm a passionate developer who enjoys crafting modern web applications, explorin
 ### 💡 About Me
 
 - 🔭 I’m currently working on personal projects that mix creativity with tech
-- 🌱 Always learning — currently exploring **[Android development]**
+- 🌱 Always learning — currently exploring **Android Development**
 - 🧠 I enjoy solving problems with code, clean architecture, and performance in mind
 - 📫 Reach out via issues, discussions, or collaborations
 
