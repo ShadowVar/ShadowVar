@@ -4,7 +4,7 @@ I'm a passionate developer who enjoys crafting modern web applications, explorin
 
 ---
 
-### 💡 About Me
+### About Me
 
 - 🔭 I’m currently working on personal projects that mix creativity with tech
 - 🌱 Always learning — currently exploring **Android Development**
@@ -13,20 +13,14 @@ I'm a passionate developer who enjoys crafting modern web applications, explorin
 
 ---
 
-### 🛠️ Tech Stack
+## Skills & Technologies
 
-<!-- Add or remove based on your skills -->
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,html,css,react,nodejs,docker,git,github,vscode,firebase,vercel&perline=6)](https://skillicons.dev)
+
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <!-- Remove if you want a super minimal profile -->
 ![ShadowVar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadowvar&show_icons=true&theme=radical)
