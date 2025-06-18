@@ -23,8 +23,8 @@ I'm a passionate developer who enjoys crafting modern web applications, explorin
 ### GitHub Stats
 
 <!-- Remove if you want a super minimal profile -->
-![ShadowVar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadowvar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowvar&layout=compact&theme=radical)
+![ShadowVar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadowVar&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowVar&layout=compact&theme=radical)
 
 ---
 
